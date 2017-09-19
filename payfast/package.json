@@ -22,6 +22,7 @@
     "nodemon": "^1.12.1",
     "restify": "^6.0.0",
     "restify-client": "^1.0.5",
-    "restify-clients": "^1.5.1"
+    "restify-clients": "^1.5.1",
+    "soap": "^0.21.0"
   }
 }
