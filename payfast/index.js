@@ -5,5 +5,5 @@ var app = require("./config/custom-express")();
 
 //define que estou ouvindo uma determinada porta
 app.listen(3000, function() {
-    console.log('Servidor rodndo na porta 3000');
+    console.log('Servidor rodando na porta 3000');
 });
